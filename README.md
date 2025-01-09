@@ -20,8 +20,8 @@
 ## Featured Projects
 
 - **[az-deviceflow-auth-app](https://github.com/xmedinavei/az-deviceflow-auth-app)**: Secure Azure AD authentication using **Device Code Flow**.  
-- **[python-web-scraper](https://github.com/xmedinavei/python-web-scraper)**: Dynamic **BBC News** scraper with **Selenium** and **Docker**.
+- **[python-web-scraper](https://github.com/xmedinavei/python-web-scraper)**: Dynamic **BBC News** scraper powered by **prompt engineering**, a prompt-based app.
 
 ---
 
-*Thanks for visiting! Let’s create something amazing together in the cloud!*
+*Thanks for visiting! Have an awesome idea? Need help with cloud solutions? Or just want to brainstorm over virtual coffee? Let's team up and build something amazing! 🚀 *

@@ -16,10 +16,9 @@
 
 ## About Me
 
-- **Cloud-Focused**: Skilled in deploying resilient systems in **Azure**.  
-- **Tech Stack**: Expertise in **microservices**, **CI/CD pipelines**, and containerization.  
-- **Blogger**: Sharing insights on **cloud** and **modern development** at my [Hashnode blog](https://xaviermedina.hashnode.dev/).  
-- **Fun Fact**: I kayak in summer, hike snowy trails in winter, and sometimes ask ChatGPT to optimize my pizza recipes!
+- 🌩️ **Cloud-Focused**: Skilled in deploying resilient systems in **Azure**.  
+- ✍️ **Blogger**: Sharing insights on **cloud** and **modern development** at my [Hashnode blog](https://xaviermedina.hashnode.dev/).  
+- 🏞️ **Fun Fact**: I kayak in summer, hike snowy trails in winter, and 🤖 sometimes ask ChatGPT to optimize my pizza recipes!
 
 ---
 

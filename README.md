@@ -52,8 +52,7 @@
 - **Meta Back-End Development Professional Certificate**  
 - **In Progress:** Azure AZ-204 Developer Certification  
 
-Curious about my full background? [**View My Resume Here**](#)  
-*(Feel free to host your resume online or simply keep the link within your repo.)*
+Curious about my full background? [**View My Resume Here**](./XAVIER%20MEDINA%20-%20Resume%20-%20Software%20Engineer.pdf)  
 
 ---
 

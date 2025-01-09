@@ -19,7 +19,7 @@
 - 🌐 **Who I Am:** A Software Engineer transitioning into cloud-focused roles, driven by a passion for **Azure** and **Generative AI**. 
 - 🔭 **What I'm Working On:** Preparing for the **AZ-204 Developer Certification** while experimenting with **AI-driven solutions** and modern **cloud infrastructures**.
 - 🌱 **Tech Enthusiast:** From building **microservices** to integrating **OpenAI** with **vector databases**, I focus on creating scalable, future-proof solutions.
-- 🎉 **Fun Fact:** Based in **Toronto**, I enjoy **kayaking** on Lake Ontario in the summer and tackling snowy **hiking trails** in the winter.
+- 🎉 **Fun Fact:** Based in **Toronto**, I enjoy **kayaking** on Ontario lake in the summer and tackling snowy **hiking trails** in the winter.
 - 🤭 **Humor Alert:** I'm basically building clouds on the cloud. When not coding, I’m persuading ChatGPT to write my grocery lists or rewriting Shakespeare in Python.
 
 ---

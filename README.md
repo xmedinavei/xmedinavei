@@ -24,4 +24,4 @@
 
 ---
 
-*Thanks for visiting! Have an awesome idea? Need help with cloud solutions? Or just want to brainstorm over virtual coffee? Let's team up and build something amazing! 🚀*
+*Thanks for visiting! Have an awesome idea? Need help with cloud? Or just want to brainstorm over virtual coffee? Let's team up and build something amazing! 🚀*

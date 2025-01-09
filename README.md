@@ -17,11 +17,11 @@ Based in **Toronto**, I specialize in designing scalable architectures and deplo
 - 🤭 **Humor Alert:** I’m basically building clouds on the cloud. When not coding, I’m persuading ChatGPT to write my grocery lists or optimize my pizza recipes!
 
 ## Featured Projects
-- **[az-deviceflow-auth-app](https://github.com/your-username/az-deviceflow-auth-app):**  
+- **[az-deviceflow-auth-app](https://github.com/xmedinavei/az-deviceflow-auth-app):**  
   Azure AD authentication using **Device Code Flow**, MSAL, and Graph API. Demonstrates secure app integrations.  
   *Tech Stack:* Azure, MSAL, Graph API, Docker  
 
-- **[python-web-scraper](https://github.com/your-username/python-web-scraper):**  
+- **[python-web-scraper](https://github.com/xmedinavei/python-web-scraper):**  
   A dynamic **web scraper** for BBC News built with **Selenium** and deployed with **Docker**.  
   *Tech Stack:* Python, Selenium, Docker  
 

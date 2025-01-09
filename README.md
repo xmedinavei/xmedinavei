@@ -26,11 +26,11 @@
 
 ## Projects & Highlights
 
-### [az-deviceflow-auth-app](https://github.com/your-username/az-deviceflow-auth-app)
+### [az-deviceflow-auth-app](https://github.com/xmedinavei/az-deviceflow-auth-app)
 > A Dockerized app demonstrating **Azure AD authentication** using the **Device Code Flow**, with **MSAL** and **Microsoft Graph API** to manage user profiles and calendar events.  
 > **Tech Stack:** Azure, MSAL, Microsoft Graph API, Docker
 
-### [python-web-scraper](https://github.com/your-username/python-web-scraper)
+### [python-web-scraper](https://github.com/xmedinavei/python-web-scrapper)
 > A **Python web scraper** for BBC News using **Selenium** and **BeautifulSoup4**, enhanced by AI-driven **prompt engineering**. Extracts data like URLs, headlines, and images, while handling dynamic content. Includes **Docker support** for seamless deployment.  
 > **Tech Stack:** Python, Selenium, BeautifulSoup4, Docker, AI Prompt Engineering
 

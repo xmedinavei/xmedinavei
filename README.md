@@ -1,4 +1,11 @@
-# Hi, I'm Xavier Medina! 👋
+# Hi, I'm Xavier Medina! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
+[![Azure](https://img.shields.io/badge/Cloud-Azure-blue?style=flat&logo=microsoft-azure)](https://azure.microsoft.com/)
+[![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker)](https://www.docker.com/)
+[![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD-orange?style=flat&logo=githubactions)](https://github.com/features/actions)
+[![Python](https://img.shields.io/badge/Code-Python-yellow?style=flat&logo=python)](https://www.python.org/)
+[![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
+[![OpenAI](https://img.shields.io/badge/AI-OpenAI-purple?style=flat&logo=openai)](https://openai.com/)
 
 **Software Engineer** | **Cloud Infrastructure & Software Architecture Enthusiast**  
 Based in **Toronto**, I specialize in designing scalable architectures and deploying cloud solutions with **Azure**.

@@ -18,12 +18,10 @@ Based in **Toronto**, I specialize in designing scalable architectures and deplo
 
 ## Featured Projects
 - **[az-deviceflow-auth-app](https://github.com/xmedinavei/az-deviceflow-auth-app):**  
-  Azure AD authentication using **Device Code Flow**, MSAL, and Graph API. Demonstrates secure app integrations.  
-  *Tech Stack:* Azure, MSAL, Graph API, Docker  
+  Azure AD authentication using **Device Code Flow**, MSAL, and Graph API. Demonstrates secure app integrations.
 
 - **[python-web-scraper](https://github.com/xmedinavei/python-web-scraper):**  
   A dynamic **web scraper** for BBC News built with **Selenium** and deployed with **Docker**.  
-  *Tech Stack:* Python, Selenium, Docker  
 
 ## Blog & Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/xmedinavei)  

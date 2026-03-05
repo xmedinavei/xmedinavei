@@ -17,6 +17,14 @@
 
 ---
 
+## Featured Projects
+
+- **[ttg-distributed-compute](https://github.com/xmedinavei/ttg-distributed-compute)**: Distributed computation framework on **Kubernetes** for processing large parameter sets in parallel, with dual-backend queue support (**Redis** + **RabbitMQ**) and verified fault tolerance.  
+- **[az-deviceflow-auth-app](https://github.com/xmedinavei/az-deviceflow-auth-app)**: Secure Azure AD authentication using **Device Code Flow**.  
+- **[python-web-scraper](https://github.com/xmedinavei/python-web-scraper)**: Dynamic **BBC News** scraper powered by **prompt engineering**, a prompt-based app.
+
+---
+
 ## Tech Stack
 
 **AI-Powered Development**  
@@ -35,22 +43,6 @@
 
 **Cloud & DevOps**  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## Certifications
-
-🏅 **Microsoft Azure Developer Associate** (2026)  
-🏅 **AWS Cloud Quest: Cloud Practitioner** (2023)  
-🏅 **Meta Database Engineer & Back-End Development** Professional Certificates (2023)
-
----
-
-## Featured Projects
-
-- **[ttg-distributed-compute](https://github.com/xmedinavei/ttg-distributed-compute)**: Distributed computation framework on **Kubernetes** for processing large parameter sets in parallel, with dual-backend queue support (**Redis** + **RabbitMQ**) and verified fault tolerance.  
-- **[az-deviceflow-auth-app](https://github.com/xmedinavei/az-deviceflow-auth-app)**: Secure Azure AD authentication using **Device Code Flow**.  
-- **[python-web-scraper](https://github.com/xmedinavei/python-web-scraper)**: Dynamic **BBC News** scraper powered by **prompt engineering**, a prompt-based app.
 
 ---
 
